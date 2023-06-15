@@ -15,13 +15,14 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning React on EpicReact.dev
+- Open Source Enthusiast
 - 👯 I’m looking to collaborate on discord or twitter.
 
-# Github Stats
+<!-- # Github Stats
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Roshan-Horo&show_icons=true&theme=dracula" />
   <img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=Roshan-Horo&theme=dracula&hide_border=true" />
 </div>
 
-<br/><br/>
+<br/><br/> -->
