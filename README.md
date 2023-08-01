@@ -1,9 +1,10 @@
-<!-- ### Hi there 👋, I'm Roshan a Full Stack Developer. -->
+### Hi there 👋, I'm Roshan a Full Stack Developer.
 
+<!--
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey!%20Thats%20me%20Roshan%20😉&animation=fadeIn&type=waving&color=gradient&height=160&section=header"/>
 </p>
-
+-->
 
 
 <!--
