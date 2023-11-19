@@ -12,7 +12,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning React on EpicReact.dev
+- 🌱 I’m currently learning from TotalTypescript.com, EpicWeb.dev.
 - 👯 I’m looking to collaborate on discord or twitter.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning React on EpicReact.dev
+- 🌱 I’m currently learning from TotalTypescript.com, EpicWeb.dev.
 - Open Source Enthusiast
 - 👯 I’m looking to collaborate on discord or twitter.
 
